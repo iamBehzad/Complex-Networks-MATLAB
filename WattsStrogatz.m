@@ -1,6 +1,4 @@
-%Author By Behzad Abbasi - 1401-02-25 - IAU Shabestar 
-%Supervisor Dr B.Zarei
-
+%Author By Behzad Abbasi - 1401-02-25
 clc
 clear all
 close all
