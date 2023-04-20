@@ -1,5 +1,4 @@
-# Complex-Networks-MATLAB
-# Complex Networks (Python and NetworkX)
+# Complex Networks MATLAB
 
 ## BaraBasi_Albert.m  
 This code provides an example of how to implement the Barabasi-Albert model using NetworkX and visualize the resulting graph.  
